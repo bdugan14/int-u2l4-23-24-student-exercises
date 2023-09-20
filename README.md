@@ -1,6 +1,6 @@
 **click here to run in Repl.it:**
 
-[![Run on Repl.it](https://replit.com/badge/github/bdugan14/int-u2l4-23-24-student-exercises.git)](https://replit.com/new/github/bdugan14/int-u2l4-23-24-student-exercises.git)
+[![Run on Repl.it](https://replit.com/badge/github/bdugan14/int-u2l4-23-24-student-exercises)](https://replit.com/new/github/bdugan14/int-u2l4-23-24-student-exercises)
 
 # Lesson 2.4: Class Attributes
 ## 🎯 Objectives
