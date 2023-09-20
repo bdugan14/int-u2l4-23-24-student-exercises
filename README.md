@@ -1,5 +1,8 @@
-# Lesson 2.4: Class Attributes
+**click here to run in Repl.it:**
 
+[![Run on Repl.it](https://replit.com/badge/github/bdugan14/int-u2l4-23-24-student-exercises.git)](https://replit.com/new/github/bdugan14/int-u2l4-23-24-student-exercises.git)
+
+# Lesson 2.4: Class Attributes
 ## 🎯 Objectives
 - Understand and use class attributes in HTML and CSS to style specific elements.
 - Differentiate between tag selectors and class selectors.
